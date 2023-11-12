@@ -1,4 +1,5 @@
-![interpreter](https://github.com/denzelmarkeise/interpreter/assets/137828085/020a0c1a-bfb8-4425-ae40-f102c8303ae7)
+
+![interpreter](https://github.com/denzelmarkeise/interpreter/assets/137828085/851d9783-d7b3-4ddf-9fab-979efa0d3f47)
 
 This Python repository contains a basic language translator application built using Tkinter for the graphical user interface and the Googletrans library for language translation. The application features input fields for text, language selection, and a "Translate" button to perform translations, with results displayed in a clean white-themed interface.
 
